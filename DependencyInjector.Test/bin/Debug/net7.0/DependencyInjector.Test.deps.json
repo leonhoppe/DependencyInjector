@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DependencyInjector.Test/1.0.0": {
+        "dependencies": {
+          "DependencyInjector": "1.0.0"
+        },
+        "runtime": {
+          "DependencyInjector.Test.dll": {}
+        }
+      },
+      "DependencyInjector/1.0.0": {
+        "runtime": {
+          "DependencyInjector.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DependencyInjector.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DependencyInjector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

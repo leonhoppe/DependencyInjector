@@ -1,0 +1,12 @@
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\bin\Debug\net7.0\DependencyInjector.deps.json
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\bin\Debug\net7.0\DependencyInjector.dll
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\bin\Debug\net7.0\DependencyInjector.pdb
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\obj\Debug\net7.0\DependencyInjector.csproj.AssemblyReference.cache
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\obj\Debug\net7.0\DependencyInjector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\obj\Debug\net7.0\DependencyInjector.AssemblyInfoInputs.cache
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\obj\Debug\net7.0\DependencyInjector.AssemblyInfo.cs
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\obj\Debug\net7.0\DependencyInjector.csproj.CoreCompileInputs.cache
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\obj\Debug\net7.0\DependencyInjector.dll
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\obj\Debug\net7.0\refint\DependencyInjector.dll
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\obj\Debug\net7.0\DependencyInjector.pdb
+D:\Programmierstuff\C#\DependencyInjector\DependencyInjector\obj\Debug\net7.0\ref\DependencyInjector.dll
